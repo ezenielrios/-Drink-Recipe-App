@@ -30,8 +30,8 @@ To-do-list
 - Allow users the ability to leave reviews 
 
 Getting Started
-1.Make sure you have Python 3 installed on your device
-2.Clone my repository with this Git link and command in your command prompt, in your desired location: "git clone https://github.com/ezenielrios/Revature_project2_Group4-1.git"
-3.Set up the db_connection.py file with your AWS RDS database
-4.Ensure that Flask, psycopg2, Flask-Cors, is installed in the PyCharm terminal using the pip install commands
-5.Run app.py and open up your web browser of choice via "index.html" in the web folder
+1. Make sure you have Python 3 installed on your device
+2. Clone my repository with this Git link and command in your command prompt, in your desired location: "git clone https://github.com/ezenielrios/Revature_project2_Group4-1.git"
+3. Set up the db_connection.py file with your AWS RDS database
+4. Ensure that Flask, psycopg2, Flask-Cors, is installed in the PyCharm terminal using the pip install commands
+5. Run app.py and open up your web browser of choice via "index.html" in the web folder
