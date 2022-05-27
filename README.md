@@ -14,13 +14,16 @@
 - HTML5
 - CSS3
 - Bootstrap 4
+
 ##Features
 - Allows users to select from a variety of refreshing beverage categories and view recipes.
 - User's can register for aditional content
 - User's can log in to access aditional content
+
 ##To-do-list
 - Allow users the ability to submit thier own recipes
 - Allow users the ability to leave reviews 
+
 ##Getting Started
 1.Make sure you have Python 3 installed on your device
 2.Clone my repository with this Git link and command in your command prompt, in your desired location: "git clone https://github.com/ezenielrios/TRMS-Python.git"
