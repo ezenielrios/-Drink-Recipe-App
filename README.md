@@ -37,9 +37,16 @@ The Drink Recipe App, allows users to select from a variety of refreshing bevera
 - Allow users the ability to submit thier own recipes
 - Allow users the ability to leave reviews 
 
-## Getting Started
+## Getting Started in Python
 1. Make sure you have Python 3 installed on your device
 2. Clone my repository with this Git link and command in your command prompt, in your desired location: "git clone https://github.com/ezenielrios/-Drink-Recipe-App.git"
 3. Set up the db_connection.py file with your AWS RDS database
 4. Ensure that Flask, psycopg2, Flask-Cors, is installed in the PyCharm terminal using the pip install commands
-5. Run app.py and open up your web browser of choice via "index.html" in the web folder
+5. Run app.py and open up your web browser of choice via "index.html" in the front-end folder
+
+## Getting started in Java
+1. Install Java IDE (recommended IDE Intellij)
+2. Run as a Maven Project Next ensure dependencies are included
+3. Clone my repository with this Git link and command in your command prompt, in your desired location: "git clone https://github.com/ezenielrios/-Drink-Recipe-App.git"
+4. Set up connection file with your AWS RDS database
+5. Run app.java and open up your web browser of choice via "index.html" in the fron-end folder
