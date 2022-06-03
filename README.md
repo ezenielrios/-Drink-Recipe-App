@@ -50,3 +50,8 @@ The Drink Recipe App, allows users to select from a variety of refreshing bevera
 3. Clone my repository with this Git link and command in your command prompt, in your desired location: "git clone https://github.com/ezenielrios/-Drink-Recipe-App.git"
 4. Set up connection file with your AWS RDS database
 5. Run app.java and open up your web browser of choice via "index.html" in the fron-end folder
+
+## ScreenShots of UI
+![Alt text](https://github.com/ezenielrios/Drink-Recipe-App/blob/main/Project2FrontEnd/FrontEndTemplate/assets/images/Front-end%20design.png "Front-end design")
+![Alt text](https://github.com/ezenielrios/Drink-Recipe-App/blob/main/Project2FrontEnd/FrontEndTemplate/assets/images/Login%20and%20Registration.png "Login/Registration")
+
